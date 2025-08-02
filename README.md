@@ -4,7 +4,7 @@
 Currently building a **Technical Analysis Library** with a fully integrated backtesting engine.
 
 ---
-![Wolf]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg4NmVqdWIwMHhhdm9zZ2JjcXdub2MwcWJkZjFyNG05ajB2d3duNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2bOZ4zvrpTGM/giphy.gif))
+![My GIF](giphy.gif)
 
 ## 🚀 About Me
 
