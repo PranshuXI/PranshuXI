@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pranshu Singh
 
-**Aspiring Quant Researcher** | Python Enthusiast | Finance + AI  
+**Aspiring Quant Trader** | Python Enthusiast | Finance + AI  
 Currently building:
 - 📈 **Technical Analysis Library** with a fully integrated backtesting engine  
 - 🌊 **Subsea** – Subscription management tool with portfolio optimization features for users  
